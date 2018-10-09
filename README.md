@@ -1,0 +1,2 @@
+# safelagu
+File HTML SafeLagu
